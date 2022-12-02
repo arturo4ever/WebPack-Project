@@ -78,5 +78,5 @@ module.exports = {
             new CssMinimizerPlugin(),
             new TerserPlugin(),
         ]
-    }
+    },
 }
